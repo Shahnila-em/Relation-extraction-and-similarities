@@ -1,10 +1,11 @@
  When an entity spans across multiple words, then POS tags alone are not sufficient. We need to parse the dependency tree of the sentence. extracting the subject/object along with its modifiers in a compound form such as animal lover, football player  as a result we will have complete idea about a relation also the relation name how they are connected .
- and will show in graph .this time we will be using  . MultiGraph() instance from a pandas DataFrame using networkx's from_pandas_dataframe which doesnot have local host and server issue hopefully we will be able to implement it .its xactly like neo4j using nodes connection with direction connecting lines
+ and will show in graph .this time we will be using  . MultiGraph() instance from a pandas DataFrame using networkx's from_pandas_dataframe which doesnot have local host and server issue hopefully we will be able to implement it .its xactly like neo4j using nodes connection with direction connecting lines .
 
-chnaging the concept of making app and then was trying to look for ideas in the graph that we get thus reviewing papers also for it's furthur extentions
+changing the concept of making app and then was trying to look for ideas in the graph that we get thus reviewing papers also for it's furthur extentions
 
- analysis of different libraies and code and functionality and the wroking of the graphs
+ analysis of different libraies and code and functionality and the working of the graphs
 1.analysis about pandas dataframe and skearn  spacy library
 2.analysis about networkx graph and its workings and multigraphs
 3.extraction of dependent words with subject and object coding
+.....
 
