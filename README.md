@@ -26,16 +26,11 @@ And what chemicals are responsible for covid -19 disease
 Also, if there is any complications for any chemical and side effects all these 
 results found.
 
-Shahnila's Contributuion to this___
-worked on relation extraction entity extraction  similarity finding  extracting ,coding, exploring theoires thoery related  ideas, building graphs fixing error occuring due to graph and code both and also exploring on different data's and their result  and exploring on data ideas
+references___
 
-
-refrences___
-
-	https://nanonets.com/blog/named-entity-recognition-with-nltk-and-spacy/
-
- https://www.analyticsvidhya.com/blog/2019/09/introduction-information-extraction-python-spacy/
-
+1.	https://nanonets.com/blog/named-entity-recognition-with-nltk-and-spacy/
+2.	https://academic.oup.com/bioinformatics/article/34/15/2614/4911883
+3.	https://www.analyticsvidhya.com/blog/2019/09/introduction-information-extraction-python-spacy/
 
 
 
