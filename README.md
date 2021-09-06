@@ -26,7 +26,7 @@ And what chemicals are responsible for covid -19 disease
 Also, if there is any complications for any chemical and side effects all these 
 results found.
 
-my Contributuion to this___
+Shahnila's Contributuion to this___
 worked on relation extraction entity extraction  similarity finding  extracting ,coding, exploring theoires thoery related  ideas, building graphs fixing error occuring due to graph and code both and also exploring on different data's and their result  and exploring on data ideas
 
 
