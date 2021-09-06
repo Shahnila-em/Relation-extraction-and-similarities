@@ -1,14 +1,7 @@
-cse499b
+
 
 
  When an entity spans across multiple words, then POS tags alone are not sufficient. We need to parse the dependency tree of the sentence. extracting the subject/object along with its modifiers in a compound form such as animal lover, football player  as a result we will have complete idea about a relation also the relation name how they are connected .
  and will show in graph .this time we will be using  . MultiGraph() instance from a pandas DataFrame using networkx's from_pandas_dataframe which doesnot have local host and server issue hopefully we will be able to implement it .its xactly like neo4j using nodes connection with direction connecting lines 
 
-We will be building an app where any text input can be  given  by user and it will do the following task 
-Tokenize the word and show it
-Will show the word in lemmatized form
-Will pickout  its word  and tell  what this word is sementically 
-Will summarize any text by using multiple text  summarization functions(user will have an option to  choose they type they want) 
-Will do the  its sentiment analysis
-Will give its question answering
-Will show similarities among words if possible will  be displayed in graph
+

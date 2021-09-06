@@ -1,0 +1,2 @@
+
+worked on relation extraction etity extraction coding, exploring theooires thoeries,ideas, building graphs fixing error occuring due to graph and also exploring on different datas and exploring on data ideas 
